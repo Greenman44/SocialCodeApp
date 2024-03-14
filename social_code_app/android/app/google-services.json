@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89680973278",
+    "project_id": "socialcodeapp-b1e70",
+    "storage_bucket": "socialcodeapp-b1e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89680973278:android:3f38290d7571b0d155a14f",
+        "android_client_info": {
+          "package_name": "com.example.social_code_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDbDSYi8FR_jiT9rmmn5etbHHm3EOg1KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
